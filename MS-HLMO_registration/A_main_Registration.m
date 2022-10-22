@@ -90,7 +90,7 @@ figure; imshow(I3,[]); title('Fusion Form'); pause(0.01)
 figure; imshow(I4,[]); title('Mosaic Form'); pause(0.01)
 
 %% Save results
-if (exist('save_image','dir')==0) % 如果文件夹不存在
+if (exist('save_image','dir')==0) % If file folder does not exist
     mkdir('save_image');
 end
 Date = datestr(now,'yyyy-mm-dd_HH-MM-SS__');
