@@ -23,7 +23,3 @@ Testing data are available:
 An image registration software based on MS-HLMO:
 ![image](soon.jpg)
 is comming soon.
-
-
-Some multi-source/multi-modal remote sensing image registration examples:
-![image](https://github.com/MrPingQi/MS-HLMO_registration-v1.0/blob/main/Registration%20examples/2022-10-22_17-00-03__0%20Matching%20Result.jpg) ![image](Registration examples/2022-10-22_17-00-03__1 Reference Image.jpg) ![image](Registration examples/2022-10-22_17-00-03__2 Registered Image.jpg) ![image](Registration examples/2022-10-22_17-00-03__3 Fusion of results.jpg) ![image](Registration examples/2022-10-22_17-00-03__4 Mosaic of results.jpg)
