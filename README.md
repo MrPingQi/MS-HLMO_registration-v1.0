@@ -26,4 +26,4 @@ is comming soon.
 
 
 Some multi-source/multi-modal remote sensing image registration examples:
-![image](2022-10-22_17-00-03__0 Matching Result.jpg) ![image](2022-10-22_17-00-03__1 Reference Image.jpg) ![image](2022-10-22_17-00-03__2 Registered Image.jpg) ![image](2022-10-22_17-00-03__3 Fusion of results.jpg) ![image](2022-10-22_17-00-03__4 Mosaic of results.jpg)
+![image](Registration examples/2022-10-22_17-00-03__0 Matching Result.jpg) ![image](Registration examples/2022-10-22_17-00-03__1 Reference Image.jpg) ![image](Registration examples/2022-10-22_17-00-03__2 Registered Image.jpg) ![image](Registration examples/2022-10-22_17-00-03__3 Fusion of results.jpg) ![image](Registration examples/2022-10-22_17-00-03__4 Mosaic of results.jpg)
