@@ -35,10 +35,10 @@ warning off
     fprintf('\n** Registration starts, have fun\n\n'); ts=cputime; tic
 
 %% Keypoints Detection
-tic,keypoints_1 = Detect_Keypoint(I1,r1,radius,N,nOctaves1,G_resize);
+tic,keypoints_1 = Detect_Keypoint(I1,6,r1,N,nOctaves1,G_resize);
     str=['Done: Keypoints detection of reference image, time cost: ',num2str(toc),'s\n']; fprintf(str);
     figure,imshow(I1_s); hold on; plot(keypoints_1(:,1),keypoints_1(:,2),'r+'); pause(0.01)
-tic,keypoints_2 = Detect_Keypoint(I2,r2,radius,N,nOctaves2,G_resize);
+tic,keypoints_2 = Detect_Keypoint(I2,6,r2,N,nOctaves2,G_resize);
     str=['Done: Keypoints detection of sensed image, time cost: ',num2str(toc),'s\n\n']; fprintf(str);
     figure,imshow(I2_s); hold on; plot(keypoints_2(:,1),keypoints_2(:,2),'r+'); pause(0.01)
 
