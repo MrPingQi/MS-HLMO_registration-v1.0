@@ -6,7 +6,7 @@
 function orientation = Parital_Main_Orientation(I,R1,R2,s)
 
 hx = [-1,0,1;-2,0,2;-1,0,1]; % 一阶梯度 Sobel算子
-hy = [1,2,1;0,0,0;-1,-2,-1];
+hy = [-1,-2,-1;0,0,0;1,2,1];
 Gx = imfilter(I, hx, 'replicate');
 Gy = imfilter(I, hy, 'replicate');
 
