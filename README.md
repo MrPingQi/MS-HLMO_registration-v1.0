@@ -2,7 +2,7 @@
 
 Code for the paper “MS-HLMO: Multi-scale Histogram of Local Main Orientation for Remote Sensing Image Registration” [Online]. Available: https://ieeexplore.ieee.org/document/9837033
 
-If you have any queries or suggestions, please do not hesitate to contact me (gao-pingqi@qq.com or 3120205425@bit.edu.cn).
+If you have any queries or suggestions, please do not hesitate to contact me (gao-pingqi@qq.com).
 
 Run this code by the following procedures:
 
