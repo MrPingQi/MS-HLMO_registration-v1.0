@@ -66,29 +66,3 @@ for octave1=1:nOctaves1
 end
 [max_O1,max_O2] = find(Confidence==max(max(Confidence)));
 cor1 = cor1{max_O1,max_O2}; cor2 = cor2{max_O1,max_O2};
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
