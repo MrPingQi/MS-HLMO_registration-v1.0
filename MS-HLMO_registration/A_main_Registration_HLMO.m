@@ -15,9 +15,7 @@ int_flag = 1; % yes:1, no:0
 %% Is there any obvious rotation difference
 rot_flag = 1;
 %% Is there any obvious scale difference
-scl_flag = 0;
-
-
+scl_flag = 1;
 %% What spatial transformation model do you need at the end
 trans_form = 'affine';  % similarity, affine, projective
 %% What image pair output form do you need at the end
