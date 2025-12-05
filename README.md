@@ -25,7 +25,7 @@ Testing data are available:
 If you find our work useful in your research, please consider citing:
 ```bibtex
 @article{gao2022ms,
-  title={MS-HLMO: Multiscale histogram of local main orientation for remote sensing image registration},
+  title={{MS-HLMO}: Multiscale histogram of local main orientation for remote sensing image registration},
   author={Gao, Chenzhong and Li, Wei and Tao, Ran and Du, Qian},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
   volume={60},
