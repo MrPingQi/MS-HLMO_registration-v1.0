@@ -21,6 +21,20 @@ Testing data are available:
 
 ** Now this registration algorithm is an old-fashioned one, and we highly recommend checking our updated version of MS-HLMO, which is now available at https://github.com/MrPingQi/MS-HLMO_registration-v2.0
 
+## 📚 Citation
+If you find our work useful in your research, please consider citing:
+```bibtex
+@article{gao2022ms,
+  title={MS-HLMO: Multiscale histogram of local main orientation for remote sensing image registration},
+  author={Gao, Chenzhong and Li, Wei and Tao, Ran and Du, Qian},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--14},
+  year={2022},
+  publisher={IEEE}
+}
+```
+
 An image registration software based on MS-HLMO:
 ![image](soon.jpg)
 is comming soon.
