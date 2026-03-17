@@ -1,13 +1,13 @@
 # MS-HLMO_registration
 
-Code for the paper “MS-HLMO: Multi-scale Histogram of Local Main Orientation for Remote Sensing Image Registration” [Online]. Available: https://ieeexplore.ieee.org/document/9837033
+Paper Link: https://ieeexplore.ieee.org/document/9837033
 
 If you have any queries or suggestions, please do not hesitate to contact me (gao-pingqi@qq.com).
 If you are from China, just speak Chinese, its OK~  中国人直接说中文就可以了~
 
 Run this code by the following procedures:
 
-1. Open and run "A_registration_main.m".
+1. Open and run "A_main_HLMO.m".
 2. Set the parameters, if the procedures are clearly understood. Otherwise, use the default.
 3. Choose the reference image.
 4. Choose the sensed image.
