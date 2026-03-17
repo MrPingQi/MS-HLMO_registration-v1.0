@@ -1,4 +1,4 @@
-# MS-HLMO: Multi-Scale Histogram of Local Main Orientation for Remote Sensing Image Registration
+# MS-HLMO: Multiscale Histogram of Local Main Orientation for Remote Sensing Image Registration
 
 Paper Link: https://ieeexplore.ieee.org/document/9837033
 
