@@ -21,6 +21,7 @@ Testing data are available:
 
 ** Now this registration algorithm is an old-fashioned one, and we highly recommend checking our updated version of MS-HLMO, which is now available at https://github.com/MrPingQi/MS-HLMO_registration-v2.0
 
+<br>
 
 ## 📚 Citation
 If you find our work useful in your research, please consider citing:
